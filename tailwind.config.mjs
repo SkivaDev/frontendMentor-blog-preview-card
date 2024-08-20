@@ -10,7 +10,11 @@ export default {
 			backgroundColor: {
 				'yellow': 'hsl(47, 88%, 63%)',
 				'grey': 'hsl(0, 0%, 50%)',
-			}
+			},
+			borderColor: {
+				'yellow': 'hsl(47, 88%, 63%)',
+				'grey': 'hsl(0, 0%, 50%)',
+			},
 		},
 	},
 	plugins: [],
